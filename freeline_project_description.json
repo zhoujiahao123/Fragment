@@ -1,0 +1,107 @@
+{
+    "android_gradle_plugin_version": "2.2.0",
+    "apk_path": "D:\\github\\GoogleFragment\\app\\build\\outputs\\apk\\app-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "D:\\github\\GoogleFragment\\app\\build\\freeline",
+    "build_directory": "D:\\github\\GoogleFragment\\app\\build",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "D:\\android\\build-tools\\25.0.0",
+    "build_tools_version": "25.0.0",
+    "compile_sdk_directory": "D:\\android\\platforms\\android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.nexuslink.www.googlefragment",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "D:\\github\\GoogleFragment",
+    "freeline_gradle_plugin_version": "0.8.3",
+    "java_home": "C:\\java\\jdk1.8.0_71",
+    "launcher": "com.nexulink.jacob.bean.ui.activity.SelectBookActivity",
+    "main_assets_directory": [
+        "D:\\github\\GoogleFragment\\app\\src\\debug\\assets",
+        "D:\\github\\GoogleFragment\\app\\src\\main\\assets"
+    ],
+    "main_jniLibs_directory": [
+        "D:\\github\\GoogleFragment\\app\\src\\debug\\jniLibs",
+        "D:\\github\\GoogleFragment\\app\\src\\main\\jniLibs"
+    ],
+    "main_jni_directory": [
+        "D:\\github\\GoogleFragment\\app\\src\\debug\\jni",
+        "D:\\github\\GoogleFragment\\app\\src\\main\\jni"
+    ],
+    "main_manifest_path": "D:\\github\\GoogleFragment\\app\\src\\main\\AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "D:\\github\\GoogleFragment\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "main_res_directory": [
+        "D:\\github\\GoogleFragment\\app\\src\\debug\\res",
+        "D:\\github\\GoogleFragment\\app\\src\\main\\res"
+    ],
+    "main_src_directory": [
+        "D:\\github\\GoogleFragment\\app\\src\\debug\\java",
+        "D:\\github\\GoogleFragment\\app\\src\\main\\java"
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "D:\\github\\GoogleFragment\\app"
+        }
+    ],
+    "package": "com.nexuslink.www.googlefragment",
+    "product_flavor": "",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "D:\\github\\GoogleFragment\\app\\src\\debug\\assets",
+                "D:\\github\\GoogleFragment\\app\\src\\main\\assets"
+            ],
+            "main_jniLibs_directory": [
+                "D:\\github\\GoogleFragment\\app\\src\\debug\\jniLibs",
+                "D:\\github\\GoogleFragment\\app\\src\\main\\jniLibs"
+            ],
+            "main_jni_directory": [
+                "D:\\github\\GoogleFragment\\app\\src\\debug\\jni",
+                "D:\\github\\GoogleFragment\\app\\src\\main\\jni"
+            ],
+            "main_manifest_path": "D:\\github\\GoogleFragment\\app\\src\\main\\AndroidManifest.xml",
+            "main_res_directory": [
+                "D:\\github\\GoogleFragment\\app\\src\\debug\\res",
+                "D:\\github\\GoogleFragment\\app\\src\\main\\res"
+            ],
+            "main_src_directory": [
+                "D:\\github\\GoogleFragment\\app\\src\\debug\\java",
+                "D:\\github\\GoogleFragment\\app\\src\\main\\java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "D:\\github\\GoogleFragment",
+    "sdk_directory": "D:\\android",
+    "use_jdk8": true
+}

@@ -33,7 +33,7 @@ public class BookContent {
         Log.e(TAG,"BookContent静态代码块执行了");
         addItem(new Book(1,"安卓开发艺术探索","一本我假期准备修读的关于安卓开始的书籍。"));
         addItem(new Book(2,"Thinking in java","java书籍中的圣经"));
-        addItem(new Book(3,"编译原理","开发人员必修读的书籍之一"));
+        addItem(new Book(3,"编译原理","所有必修读的书籍之一"));
     }
     public static void addItem(Book book){
         ITEMS.add(book);
